@@ -62,7 +62,7 @@ docker push <your-cloud-registry>/mlflowserver
   - Google Cloud Storage
   - Azure Blob Storage  
 
-- **CSetting Up a Backend Store**: Create a database for the backstore URI needed by mlflow (You can create your DB on the same cloud provider that has been used for the storage)
+- **Setting Up a Backend Store**: Create a database for the backstore URI needed by mlflow (You can create your DB on the same cloud provider that has been used for the storage)
 
 ### 3. Update Environment Variables  
 Modify the environment variables in the application to point to your cloud resources:  
