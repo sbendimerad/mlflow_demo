@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="assets/datacraft_logo.svg" alt="Logo" width="337"/>
+</p>
+<br/>
 
-# MLflow Demo Project  
+
+
+# REX: MONITORING ET DÉPLOIEMENT DE MODÈLES AVEC MLFLOW - 2025/01/21  
 
 This project demonstrates an MLflow setup with two components:  
 1. **Deployment Folder**: Contains a `Dockerfile` and `launch.sh` for deploying the MLflow server.  
